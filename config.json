@@ -1,0 +1,14 @@
+[
+{
+	"name": "host1",
+	"metric": "disk",
+	"comparator": "{\"compare\": \"less than\", \"value\": 75}",
+	"actions": "{\"email\": \"abc@pqr.com\"}"
+},
+{
+        "name": "host1",
+        "metric": "cpu",
+        "comparator": "{\"compare\": \"less than\", \"value\": 90}",
+        "actions": "{\"slack\": \"monitoring\"}"
+}
+]

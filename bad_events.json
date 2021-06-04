@@ -1,0 +1,22 @@
+[
+    {
+        "name": "host1",
+        "type": "disk",
+        "value": 90
+    },
+    {
+        "name": "host2",
+        "type": "cpu",
+        "value": 50
+    },
+    {
+        "name": "host1",
+        "type": "memory",
+        "value": 750000
+    },
+    {
+        "name": "kafka1",
+        "type": "queue",
+        "value": 5000
+    }
+]
